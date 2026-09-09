@@ -1,0 +1,52 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+*.egg-info/
+.eggs/
+dist/
+build/
+.venv/
+venv/
+.env/
+*.egg
+
+# Blender
+*.blend1
+*.blend2
+*.blend#
+*.bwm
+*.crash.txt
+
+# OS / editor
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*~
+.idea/
+.vscode/
+*.code-workspace
+
+# Test / coverage
+.pytest_cache/
+.coverage
+htmlcov/
+.mypy_cache/
+.ruff_cache/
+
+# Archives / local dumps (do not publish)
+*.tar
+*.tar.gz
+*.tgz
+*.zip
+*.7z
+agent-data/
+*.transcript*
+
+# Local secrets
+.env
+.env.*
+!.env.example
