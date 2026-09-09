@@ -168,3 +168,8 @@ ABP_BirdFlight    (flap cycle × awr_fold × alula)
 - Modular Control Rig modules per wing
 - Physics-lite feather jiggle as post-process
 - Networked fold replication (quantize 0–1 to byte)
+
+
+---
+
+**Preferred path:** use the sibling plugin repo [hallower1980/avian-wing-rig-unreal](https://github.com/hallower1980/avian-wing-rig-unreal) for the UE5 plugin, walkthrough, and math library. This document remains a Control Rig wiring reference.

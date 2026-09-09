@@ -5,7 +5,9 @@
 [![Blender](https://img.shields.io/badge/Blender-4.x-orange.svg)](https://www.blender.org/)
 [![Python](https://img.shields.io/badge/Python-3.10+-green.svg)](https://www.python.org/)
 
-Open **Blender 4.x** addon that turns **Laura Mathews–style avian wing mimicry** into animation-ready rigs at three tiers, plus Unreal Engine 5 Control Rig design docs.
+Open **Blender 4.x** addon that turns **Laura Mathews–style avian wing mimicry** into animation-ready rigs at three tiers.
+
+**Unreal Engine 5 plugin** (separate repo): [hallower1980/avian-wing-rig-unreal](https://github.com/hallower1980/avian-wing-rig-unreal) — C++/Blueprint math library, component, Control Rig walkthrough. Same L0/L1/L2 naming and fold constants.
 
 Inspired by Mathews’ magpie/phoenix mechanical wings (reciprocal skeleton, inter-feather ligaments, alula, elastic return) and biomechanics literature on elbow–wrist morphing trajectories.
 
@@ -83,6 +85,12 @@ Maintained by [hallower1980](https://github.com/hallower1980) / AvianWingRig con
 | [`docs/UNREAL_CONTROL_RIG.md`](docs/UNREAL_CONTROL_RIG.md) | Step-by-step rebuild of L0–L2 in UE5 Control Rig |
 | [`RESEARCH_BRIEF.md`](RESEARCH_BRIEF.md) | Source principles & literature |
 | [`AGENTS.md`](AGENTS.md) | Conventions for future coding agents |
+
+## Unreal Engine sibling
+
+Runnable UE5.3+ plugin + walkthrough: **[avian-wing-rig-unreal](https://github.com/hallower1980/avian-wing-rig-unreal)**.
+
+Legacy in-repo Control Rig notes remain in [`docs/UNREAL_CONTROL_RIG.md`](docs/UNREAL_CONTROL_RIG.md); prefer the sibling plugin README / `docs/WALKTHROUGH.md` for new work.
 
 ## Unreal roadmap (summary)
 
