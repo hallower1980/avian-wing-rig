@@ -11,7 +11,6 @@ Open **Blender 4.x** addon that turns **Laura Mathews–style avian wing mimicry
 
 Inspired by Mathews’ magpie/phoenix mechanical wings (reciprocal skeleton, inter-feather ligaments, alula, elastic return) and biomechanics literature on elbow–wrist morphing trajectories.
 
-Maintained by [hallower1980](https://github.com/hallower1980) / AvianWingRig contributors.
 
 ## Features by tier
 
